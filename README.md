@@ -1,0 +1,1 @@
+# ccmoney-generator
